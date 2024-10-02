@@ -1,0 +1,16 @@
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\bin\Debug\net8.0-windows\Bai3.12.4.exe
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\bin\Debug\net8.0-windows\Bai3.12.4.deps.json
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\bin\Debug\net8.0-windows\Bai3.12.4.runtimeconfig.json
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\bin\Debug\net8.0-windows\Bai3.12.4.dll
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\bin\Debug\net8.0-windows\Bai3.12.4.pdb
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3._12._4.MainForm.resources
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.csproj.GenerateResource.cache
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.AssemblyInfoInputs.cache
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.AssemblyInfo.cs
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.csproj.CoreCompileInputs.cache
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.dll
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\refint\Bai3.12.4.dll
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.pdb
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\Bai3.12.4.genruntimeconfig.cache
+D:\BaiTapAnToan\Bai3.12.4\Bai3.12.4\obj\Debug\net8.0-windows\ref\Bai3.12.4.dll

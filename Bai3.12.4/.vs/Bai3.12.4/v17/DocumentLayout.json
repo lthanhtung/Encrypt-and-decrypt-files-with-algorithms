@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiTapAnToan\\Bai3.12.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D5B675-00A3-469F-B3C5-15E586995298}|Bai3.12.4\\Bai3.12.4.csproj|D:\\BaiTapAnToan\\Bai3.12.4\\bai3.12.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17D5B675-00A3-469F-B3C5-15E586995298}|Bai3.12.4\\Bai3.12.4.csproj|solutionrelative:bai3.12.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D5B675-00A3-469F-B3C5-15E586995298}|Bai3.12.4\\Bai3.12.4.csproj|d:\\baitapantoan\\bai3.12.4\\bai3.12.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D5B675-00A3-469F-B3C5-15E586995298}|Bai3.12.4\\Bai3.12.4.csproj|solutionrelative:bai3.12.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BaiTapAnToan\\Bai3.12.4\\Bai3.12.4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3.12.4\\Form1.cs",
+              "ToolTip": "D:\\BaiTapAnToan\\Bai3.12.4\\Bai3.12.4\\Form1.cs",
+              "RelativeToolTip": "Bai3.12.4\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:20:57.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BaiTapAnToan\\Bai3.12.4\\Bai3.12.4\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai3.12.4\\Form1.cs",
+              "ToolTip": "D:\\BaiTapAnToan\\Bai3.12.4\\Bai3.12.4\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai3.12.4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:07:21.53Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
