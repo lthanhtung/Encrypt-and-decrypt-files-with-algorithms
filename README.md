@@ -3,4 +3,7 @@
 - Công cụ: visua studio
 - Ngôn ngữ: C#
 - Thư viện: Cryptography.
-# Các Thuật toán bao gồm: DES, TripleDES và AES
+# Các Thuật toán bao gồm:
+- AES
+- DES
+- TripleDES
